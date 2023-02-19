@@ -5,6 +5,10 @@ def run():
     print("End")
 
 
+def func():
+    return 1
+
+
 if __name__ == '__main__':
     run()
 
