@@ -6,7 +6,7 @@ def run():
 
 
 def func():
-    return None
+    return 1
 
 
 if __name__ == '__main__':
