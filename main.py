@@ -13,5 +13,5 @@ if __name__ == '__main__':
     run()
 
 
-def set():
+def my_set():
     print("sadfaf")
